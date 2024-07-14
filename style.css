@@ -1,0 +1,17 @@
+
+
+
+.header,
+.hero,
+.footer {
+    background-color: #1F2937;
+}
+
+.image-panel,
+.cta-panel {
+    background-color: #fff;
+}
+
+.quote-panel {
+    background-color: #E5E7EB;
+}
